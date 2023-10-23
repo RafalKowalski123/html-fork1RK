@@ -39,6 +39,11 @@ body{
 	height: 40px;
 
 }
+.d08 img{
+	height: 100%;
+	border-radius: 25%; 
+	margin-left: 50%;
+}
 .d09{
 	height: 47px;
 
